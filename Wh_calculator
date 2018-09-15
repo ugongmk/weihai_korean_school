@@ -19,6 +19,10 @@ printf("공항에 가지고 탈 수 있을까요?? Wh 값은 무엇인가요? %d
 // Let's add something
 
 // I added source as below 
-
 int answer;
 printf("당신은 Wh값을 구할 수 있나요? %d", answer);
+
+// I added test source as below
+int doyouknow;
+printf("당신은 git을 commit할 수 있나요? %d", doyouknow);
+
