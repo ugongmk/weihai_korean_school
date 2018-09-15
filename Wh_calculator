@@ -17,3 +17,8 @@ printf("공항에 가지고 탈 수 있을까요?? Wh 값은 무엇인가요? %d
 자. 그럼 加油
 
 // Let's add something
+
+// I added source as below 
+
+int answer;
+printf("당신은 Wh값을 구할 수 있나요? %d", answer);
